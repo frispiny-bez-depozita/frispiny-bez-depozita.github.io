@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: frispiny-bez-depozita.github.io
+Sitemap: https://frispiny-bez-depozita.github.io/sitemap.xml
